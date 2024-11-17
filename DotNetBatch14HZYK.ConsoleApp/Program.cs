@@ -45,20 +45,23 @@ foreach (DataRow dr in dt.Rows)
 }
 
 
-Console.ReadLine() ;
+Console.ReadLine();
 
 
 
-//Blog
+Blog
 
-//ID
-//Title
+ID
+Title
 
-//Author
-//Content
+Author
+Content
 
 
 
 
 //MSSQL
+
+
+Console.WriteLine("Hello World.");
 

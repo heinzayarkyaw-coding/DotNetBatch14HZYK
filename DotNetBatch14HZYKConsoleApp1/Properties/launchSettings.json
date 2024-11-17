@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DotNetBatch14HZYKConsoleApp1": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
