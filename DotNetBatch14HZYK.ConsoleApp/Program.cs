@@ -49,13 +49,13 @@ Console.ReadLine();
 
 
 
-Blog
+//Blog
 
-ID
-Title
+//ID
+//Title
 
-Author
-Content
+//Author
+//Content
 
 
 
